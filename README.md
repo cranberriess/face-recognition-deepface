@@ -3,7 +3,7 @@
 Распознавание лиц с помощью библиотеки deepface
 
 ## Проверка сходства на фотографиях Дженсена Эклза и Джареда Падалеки
-![image](https://github.com/cranberriess/face-recognition-deepface/assets/105839329/532bc930-1632-481b-8639-8a210324d795)
+<img src="(https://github.com/cranberriess/face-recognition-deepface/assets/105839329/532bc930-1632-481b-8639-8a210324d795)" alt="Дженсен Эклз №1" width="300"/>
 ![image](https://github.com/cranberriess/face-recognition-deepface/assets/105839329/2633087a-0ad4-438c-899f-5bc056c2a814)
 ![image](https://github.com/cranberriess/face-recognition-deepface/assets/105839329/d3db4813-0aef-4e17-8a09-19b26d032295)
 
