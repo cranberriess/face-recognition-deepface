@@ -1,6 +1,6 @@
 # face-recognition-deepface
 
-## Распознавание лиц с помощью библиотеки deepface
+Распознавание лиц с помощью библиотеки deepface
 
 ## Проверка сходства на фотографиях Дженсена Эклза и Джареда Падалеки
 ![image](https://github.com/cranberriess/face-recognition-deepface/assets/105839329/532bc930-1632-481b-8639-8a210324d795)
